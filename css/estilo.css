@@ -1,0 +1,38 @@
+.DivCards{
+
+    padding-bottom:30px;
+}
+
+#DivFormLogin{
+    margin-top:30px;
+    margin-bottom:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.TextoDados{
+    font-family:Verdana;
+    font-size: 8pt; 
+    
+}
+
+.LinkDados{
+    font-family:Verdana;
+    font-size: 8pt;    
+    color:#4DA8DC;
+    
+}
+
+.LinhaForm{
+    margin-top:15px;
+}
+
+.LinhaSeparador{
+    border: 0;
+    height: 2px;
+    background-image: 
+    linear-gradient(to right, transparent, #CCC, transparent);
+    margin-bottom: 50px; 
+    margin-top: 50px
+
+}
